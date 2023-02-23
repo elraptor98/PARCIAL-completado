@@ -1,0 +1,12 @@
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\bin\Debug\PARCIAL-completado.exe.config
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\bin\Debug\PARCIAL-completado.exe
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\bin\Debug\PARCIAL-completado.pdb
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.csproj.AssemblyReference.cache
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL_completado.frmTipoCliente.resources
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL_completado.Properties.Resources.resources
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.csproj.GenerateResource.cache
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.csproj.CoreCompileInputs.cache
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.exe
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL-completado.pdb
+C:\Users\Luis Garcia\Desktop\PARCIAL-completado\obj\Debug\PARCIAL_completado.frmTipoClienteEdit.resources
